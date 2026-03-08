@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "27581000157",
+    "project_id": "mydelivery-47d48",
+    "storage_bucket": "mydelivery-47d48.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27581000157:android:e119ab47fe2b5fcb2c6e34",
+        "android_client_info": {
+          "package_name": "com.example.mydelivery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXUiXnLxeQMMuJ59cXQqk_eYrRa5UpNQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
